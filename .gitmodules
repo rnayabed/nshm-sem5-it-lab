@@ -1,0 +1,6 @@
+[submodule "event-calendar"]
+	path = event-calendar
+	url = git@github.com:rnayabed/pecal.git
+[submodule "library-management-system"]
+	path = library-management-system
+	url = git@github.com:rnayabed/ulms.git
