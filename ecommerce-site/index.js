@@ -1,5 +1,3 @@
-
-
 function onLoad() {
     const items = [
         {
