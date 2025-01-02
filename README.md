@@ -2,7 +2,7 @@
 
 This is a repository containing 4 projects
 
-- College website
-- E-Commerce Site
+- College Website
+- E-Commerce Website
 - Event Calendar
 - Library Management System
